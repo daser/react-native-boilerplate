@@ -1,0 +1,4 @@
+export const SET_SAMPLE = 'SET_SAMPLE'
+//export const SET_OTHER_SAMPLE = 'SET_OTHER_SAMPLE'
+//export const SET_OTHER_SAMPLE2 = 'SET_OTHER_SAMPLE2'
+//export const SET_OTHER_SAMPLE3 = 'SET_OTHER_SAMPLE3'
